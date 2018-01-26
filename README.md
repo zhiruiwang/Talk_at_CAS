@@ -2,7 +2,7 @@
 Invited talk at Chinese Academy of Sciences about data visualization
 
 ## Packages Used
-install.packages(c('tidyverse','repr','ggthemes','plotly','dygraphs','xts','visNetwork','DT','leaflet'))
+`install.packages(c('tidyverse','repr','ggthemes','plotly','dygraphs','xts','visNetwork','DT','leaflet'))`
 
 ## Slides
 The jupyter notebook `Invited Talk at CAS.ipynb` is the presentation slides.  
