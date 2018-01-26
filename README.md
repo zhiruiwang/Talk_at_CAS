@@ -1,6 +1,9 @@
 # Talk_at_CAS
 Invited talk at Chinese Academy of Sciences about data visualization
 
+## Packages Used
+install.packages(c('tidyverse','repr','ggthemes','plotly','dygraphs','xts','visNetwork','DT','leaflet'))
+
 ## Slides
 The jupyter notebook `Invited Talk at CAS.ipynb` is the presentation slides.  
 Opening it on GitHub shows all the code and ggplot graphs in a flat notebook view. If you want to open it in a slide view, you can just go to this [link](https://nbviewer.jupyter.org/format/slides/github/zhiruiwang/Talk_at_CAS/blob/master/Invited%20Talk%20at%20CAS.ipynb#/). The way to generate the link it is to go to [nbviewer](https://nbviewer.jupyter.org/) and copy the URL of the notebook into the blank, hit `Go！` and then click `View as Slides` bottom(in a shape of wrapped present) on the upper-right corner.  
