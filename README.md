@@ -2,7 +2,7 @@
 Invited talk at Chinese Academy of Sciences
 
 ## Abstract
-Data visualization is a way to communicate information clearly and efficiently via statistical graphics, plots and information graphics. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable and usable. In the talk, I will emphasize the importance of data visualization and communication in the workflow of data science, introduce a general scheme for data visualization: grammar of graphics, demonstrate exhaustive usage of ggplot2, showcase some commonly used interactive plot library in R, and present a real example of how to generate publication level report using rmarkdown. If time permits, I will also share some professional experience of mine at BCG.
+Data visualization is a way to communicate information clearly and efficiently via statistical graphics, plots and information graphics. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable and usable. In the talk, I will emphasize the importance of data visualization and communication in the workflow of data science, introduce a general scheme for data visualization: grammar of graphics, demonstrate exhaustive usage of ggplot2, showcase some commonly used interactive plot libraries in R, and present a real example of how to generate publication level report using rmarkdown. At last, I will also share some professional experience of mine at BCG.
 
 ## Biograhpy
 [My resume](https://github.com/zhiruiwang/Talk_at_CAS/blob/master/Resume_Zhirui_Wang.pdf)
