@@ -8,7 +8,7 @@ Data visualization is a way to communicate information clearly and efficiently v
 [My resume](https://github.com/zhiruiwang/Talk_at_CAS/blob/master/Resume_Zhirui_Wang.pdf)
 
 ## Packages Used
-`install.packages(c('tidyverse','repr','ggthemes','plotly','dygraphs','xts','visNetwork','DT','leaflet'))`  
+`install.packages(c('tidyverse','repr','ggthemes','ggformula','GGally','ggmosaic','plotly','dygraphs','visNetwork','DT','leaflet'))`  
 It may take few minutes for these packages to download and compile. Please install them before the talk starts.
 
 ## Slides
