@@ -4,9 +4,6 @@ Invited talk at Chinese Academy of Sciences
 ## Abstract
 Data visualization is a way to communicate information clearly and efficiently via statistical graphics, plots and information graphics. Effective visualization helps users analyze and reason about data and evidence. It makes complex data more accessible, understandable and usable. In the talk, I will emphasize the importance of data visualization and communication in the workflow of data science, introduce a general scheme for data visualization: grammar of graphics, demonstrate exhaustive usage of ggplot2, showcase some commonly used interactive plot libraries in R, and present a real example of how to generate publication level report using rmarkdown. At last, I will also share some professional experience of mine at BCG.
 
-## Biograhpy
-[My resume](https://github.com/zhiruiwang/Talk_at_CAS/blob/master/Resume_Zhirui_Wang.pdf)
-
 ## Packages Used
 `install.packages(c('tidyverse','repr','ggthemes','ggformula','GGally','ggmosaic','plotly','radarchart','dygraphs','visNetwork','DT','leaflet'))`  
 It may take few minutes for these packages to download and compile. Please install them before the talk starts.
